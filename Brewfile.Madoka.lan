@@ -97,7 +97,6 @@ cask "vmware-fusion"
 cask "whatsapp"
 cask "wireshark"
 cask "zoom"
-cask "zoomus"
 mas "Airmail", id: 918858936
 mas "Disk Speed Test", id: 425264550
 mas "Growl", id: 467939042
