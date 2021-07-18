@@ -35,6 +35,7 @@ brew "mkvtoolnix", link: false
 brew "mpv"
 brew "nmap"
 brew "openjdk"
+brew "perl"
 brew "pv"
 brew "pyenv"
 brew "python@3.8"
